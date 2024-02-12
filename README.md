@@ -1,1 +1,1 @@
-# delete-Xpost
+##### Pythonを使ってX（Twitter）のポストを自動で削除するプログラムを作成しました。
